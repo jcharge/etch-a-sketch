@@ -1,0 +1,17 @@
+
+#grid-div {
+    background-color: aquamarine;
+    height: 700px;
+    width: 700px;
+    display: grid;
+}
+
+.grid-cell {
+    box-sizing: border-box;
+    background-color: blueviolet;
+    border: solid 1px black;
+}
+
+.new-color {
+    background-color: crimson;
+}
